@@ -1,0 +1,13 @@
+[theme]
+base="dark"
+primaryColor="#4d9fff"
+backgroundColor="#0a1628"
+secondaryBackgroundColor="#122040"
+textColor="#dce8f5"
+font="sans serif"
+
+[client]
+showSidebarNavigation=true
+
+[browser]
+gatherUsageStats=false
